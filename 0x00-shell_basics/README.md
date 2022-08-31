@@ -1,2 +1,2 @@
 #!/bin/bash
-shell scripts
+shell scripts\n
