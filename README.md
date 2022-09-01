@@ -1,2 +1,2 @@
 #!/bin/bash
-the description of the project
+the description of the project\n
