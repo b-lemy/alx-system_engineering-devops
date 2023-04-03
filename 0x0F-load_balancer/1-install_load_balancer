@@ -5,7 +5,7 @@
 # Install and configure HAproxy on my lb-01 server.
 # request diversife to web 01 and web 02
 sudo apt-get -y update
-apt-get -y install haproxy
+sudo apt-get -y install haproxy
 
 # edit config file
 server_config=\
