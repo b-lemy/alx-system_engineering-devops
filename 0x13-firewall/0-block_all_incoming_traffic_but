@@ -1,0 +1,7 @@
+# ufw configuration on server web-01
+sudo apt-get install ufw
+sudo ufw enable
+sudo ufw allow ssh
+sudo ufw allow https
+sudo ufw allow http
+sudo ufw default deny incoming
