@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script should run the whoami command
+username=$1
+sudo -u "$username" whoami
