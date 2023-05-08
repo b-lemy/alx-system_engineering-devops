@@ -24,12 +24,15 @@ Since the services was not withholding the we first moved to the loadbalancer th
 
 
 `which team/individuals was the incident escalated to`
-The Icident was escalated to the Devops 
+
+The Incident was escalated to the Devops 
 
 `how the incident was resolved`
+
 Allowing the ports in the firewalld in the linux server 
 
 `Root cause and resolution must contain:`
+
 The default configuration of firewalld denies every ports so before you enable it you have to allow all ports to should be allowed
 
 ```
@@ -43,6 +46,7 @@ Output
 
 ```
 Corrective and preventative measures must contain:
+
 Before installing any firewall in linux you have to enable the requred ports first the enable it
 
 what are the things that can be improved/fixed (broadly speaking)
